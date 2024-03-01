@@ -8,7 +8,7 @@ export const Navbar = async () => {
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.logo}>
-        Rajat Raj
+        Sociliser
       </Link>
       <div>
         <Links session={session} />
