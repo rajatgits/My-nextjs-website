@@ -32,7 +32,7 @@ export const Footer = () => {
           />
         </Link>
       </div>
-      <p className={styles.copyright}>Rajat Raj &copy; All rights reserved.</p>
+      <p className={styles.copyright}>Socialiser &copy; All rights reserved.</p>
     </div>
   );
 };

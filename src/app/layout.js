@@ -6,7 +6,7 @@ import { Footer } from "@/components/footer/Footer";
 const hanken_Grotesk = Hanken_Grotesk({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Rajat Raj",
+  title: "Socialiser",
   description: "This is my agency app",
 };
 
