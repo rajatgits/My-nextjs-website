@@ -8,7 +8,7 @@ export const Navbar = async () => {
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.logo}>
-        Sociliser
+        Socialiser
       </Link>
       <div>
         <Links session={session} />
